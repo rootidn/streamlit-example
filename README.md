@@ -4,6 +4,7 @@ YOLO model deployment using Streamlit
 ☕ Read code explanations on medium blog [here](https://medium.com/@ikhsanadi300/how-to-deploy-yolo-detection-and-segmentation-model-on-streamlit-cloud-545167733188).
 
 This project use official YOLO pretrained weights from COCO dataset
+
 Change pretrained weights with your created model based on your dataset
 
 Tested on:
